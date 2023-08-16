@@ -1,0 +1,170 @@
+[
+    {
+        "id": "spring",
+        "name": "[NEW] Master Spring Boot 3 & Spring Framework 6 with Java",
+        "image": "https://azpanel.azilen.com/uploads/everything_must_know_spring_boot_application_scratch_12_8c4e62d4fe.jpg",
+        "price": 6000,
+        "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "company": "20minutes",
+        "category": "history",
+        "featured": true,
+        "description": "You will learn to build a Web Application, REST API and Full Stack Application with Spring Boot and Spring Frameworks"
+    },
+    {
+        "id": "ccna",
+        "name": "CCNA 2020 200-125 Video Boot Camp With Chris Bryant",
+        "image": "https://media.licdn.com/dms/image/C4E12AQFRZp_eAmDlpA/article-cover_image-shrink_600_2000/0/1627028105433?e=2147483647&v=beta&t=Rt3bd3M3qMcJ-m-9cf5Fxyc6zBljZeB3cU7kvJO5iZc",
+        "price": 5000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "company": "thappa",
+        "category": "maths",
+        "shipping": true,
+        "description": "Join The 90,000+ Students Who Are Learning Real-World Skills AND Earning Their CCNA!"
+    },
+    {
+        "id": "docker",
+        "name": "Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps",
+        "image": "https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png",
+        "price": 9999,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "company": "rohit",
+        "category": "science",
+        "description": "6 DEVOPS TOOLS - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansibl LEARN DEVOPS fundamentals - CI, CD and IAAC LEARN DEVOPS from ZERO - No experience required"
+    },
+    {
+        "id": "chris",
+        "name": "CCNP All-in-1 Video Boot Camp With Chris Bryant",
+        "image": "https://media.licdn.com/dms/image/C4E12AQFRZp_eAmDlpA/article-cover_image-shrink_600_2000/0/1627028105433?e=2147483647&v=beta&t=Rt3bd3M3qMcJ-m-9cf5Fxyc6zBljZeB3cU7kvJO5iZc",
+        "price": 5000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "company": "thappa",
+        "category": "computer",
+        "shipping": true,
+        "description": "Earn Your CCNP With Chris Bryant ! Pass SWITCH 300-115, ROUTE 300-101, and TSHOOT 300-135!"
+    },
+    {
+        "id": "gcp",
+        "name": "Introduction To Fiber Optic Cabling",
+        "image": "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png",
+        "price": 5000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "company": "thappa",
+        "category": "science",
+        "shipping": true,
+        "description": "Welcome! This course is designed to give you a good understand of fiber optics and fiber data transmission."
+    },
+    {
+        "id": "gcp",
+        "name": "GCP Associate Cloud Engineer - Google Cloud Certification",
+        "image": "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png",
+        "price": 5000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "company": "thappa",
+        "category": "computer",
+        "shipping": true,
+        "description": "Understand how to engineer and deploy secure and robust applications on Google Cloud Platform , Understand the best practices for building secure and reliable applications on the Google Cloud Platform"
+    },
+    {
+        "id": "gcp",
+        "name": "GCP Associate Cloud Engineer - Google Cloud Certification",
+        "image": "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png",
+        "price": 5000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "company": "thappa",
+        "category": "computer",
+        "featured": true,
+        "shipping": true,
+        "description": "Understand how to engineer and deploy secure and robust applications on Google Cloud Platform , Understand the best practices for building secure and reliable applications on the Google Cloud Platform"
+    },
+    {
+        "id": "spring",
+        "name": "[NEW] Master Spring Boot 3 & Spring Framework 6 with Java",
+        "image": "https://azpanel.azilen.com/uploads/everything_must_know_spring_boot_application_scratch_12_8c4e62d4fe.jpg",
+        "price": 6000,
+        "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "company": "20minutes",
+        "category": "history",
+        "description": "You will learn to build a Web Application, REST API and Full Stack Application with Spring Boot and Spring Frameworks"
+    },
+    {
+        "id": "gcp",
+        "name": "GCP Associate Cloud Engineer - Google Cloud Certification",
+        "image": "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png",
+        "price": 5000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "company": "thappa",
+        "category": "computer",
+        "shipping": true,
+        "description": "Understand how to engineer and deploy secure and robust applications on Google Cloud Platform , Understand the best practices for building secure and reliable applications on the Google Cloud Platform"
+    },
+    {
+        "id": "docker",
+        "name": "Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps",
+        "image": "https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png",
+        "price": 9999,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "company": "rohit",
+        "category": "science",
+        "description": "6 DEVOPS TOOLS - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansibl LEARN DEVOPS fundamentals - CI, CD and IAAC LEARN DEVOPS from ZERO - No experience required"
+    },
+    {
+        "id": "docker",
+        "name": "Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps",
+        "image": "https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png",
+        "price": 9999,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "company": "rohit",
+        "category": "science",
+        "featured": true,
+        "description": "6 DEVOPS TOOLS - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansibl LEARN DEVOPS fundamentals - CI, CD and IAAC LEARN DEVOPS from ZERO - No experience required"
+    },
+    {
+        "id": "spring",
+        "name": "[NEW] Master Spring Boot 3 & Spring Framework 6 with Java",
+        "image": "https://azpanel.azilen.com/uploads/everything_must_know_spring_boot_application_scratch_12_8c4e62d4fe.jpg",
+        "price": 6000,
+        "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "company": "20minutes",
+        "category": "history",
+        "description": "You will learn to build a Web Application, REST API and Full Stack Application with Spring Boot and Spring Frameworks"
+    }
+]
