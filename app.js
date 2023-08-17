@@ -14,6 +14,8 @@ app.get("/",(req, res) => {
 
 app.use(cors())
 
+app.use(express.json())
+
 app.use("/api/products",products_routes);
 
 const start = async () =>{
