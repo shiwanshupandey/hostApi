@@ -33,7 +33,7 @@ const getAllProducts = async (req, res) => {
     console.log(queryObject);
 
     // const Products = await apiData;
-    res.status(200).json({Products, bbHits: Products.length });
+    res.status(200).json({apiData, bbHits: apiData.length });
 };
 
 const getAllProductsTesting = async (req, res) => {
