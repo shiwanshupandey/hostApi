@@ -1,5 +1,6 @@
 require("dotenv").config();
 const express = require("express");
+const cors = require("cors");
 const app = express();
 const connectDB = require("./db/connect");
 
@@ -10,6 +11,8 @@ const products_routes = require("./routes/products");
 app.get("/",(req, res) => {
     res.send("hi i am live");
 });
+
+app.use(cors())
 
 app.use("/api/products",products_routes);
 
