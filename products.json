@@ -12,7 +12,9 @@
         "company": "20minutes",
         "category": "history",
         "featured": true,
-        "description": "You will learn to build a Web Application, REST API and Full Stack Application with Spring Boot and Spring Frameworks"
+        "description": "You will learn to build a Web Application, REST API and Full Stack Application with Spring Boot and Spring Frameworks",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "ccna",
@@ -26,7 +28,9 @@
         "company": "thappa",
         "category": "maths",
         "shipping": true,
-        "description": "Join The 90,000+ Students Who Are Learning Real-World Skills AND Earning Their CCNA!"
+        "description": "Join The 90,000+ Students Who Are Learning Real-World Skills AND Earning Their CCNA!",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "docker",
@@ -39,7 +43,9 @@
         ],
         "company": "rohit",
         "category": "science",
-        "description": "6 DEVOPS TOOLS - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansibl LEARN DEVOPS fundamentals - CI, CD and IAAC LEARN DEVOPS from ZERO - No experience required"
+        "description": "6 DEVOPS TOOLS - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansibl LEARN DEVOPS fundamentals - CI, CD and IAAC LEARN DEVOPS from ZERO - No experience required",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "chris",
@@ -53,7 +59,9 @@
         "company": "thappa",
         "category": "computer",
         "shipping": true,
-        "description": "Earn Your CCNP With Chris Bryant ! Pass SWITCH 300-115, ROUTE 300-101, and TSHOOT 300-135!"
+        "description": "Earn Your CCNP With Chris Bryant ! Pass SWITCH 300-115, ROUTE 300-101, and TSHOOT 300-135!",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "gcp",
@@ -67,7 +75,9 @@
         "company": "thappa",
         "category": "science",
         "shipping": true,
-        "description": "Welcome! This course is designed to give you a good understand of fiber optics and fiber data transmission."
+        "description": "Welcome! This course is designed to give you a good understand of fiber optics and fiber data transmission.",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "gcp",
@@ -81,7 +91,9 @@
         "company": "thappa",
         "category": "computer",
         "shipping": true,
-        "description": "Understand how to engineer and deploy secure and robust applications on Google Cloud Platform , Understand the best practices for building secure and reliable applications on the Google Cloud Platform"
+        "description": "Understand how to engineer and deploy secure and robust applications on Google Cloud Platform , Understand the best practices for building secure and reliable applications on the Google Cloud Platform",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "gcp",
@@ -96,7 +108,9 @@
         "category": "computer",
         "featured": true,
         "shipping": true,
-        "description": "Understand how to engineer and deploy secure and robust applications on Google Cloud Platform , Understand the best practices for building secure and reliable applications on the Google Cloud Platform"
+        "description": "Understand how to engineer and deploy secure and robust applications on Google Cloud Platform , Understand the best practices for building secure and reliable applications on the Google Cloud Platform",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "spring",
@@ -110,7 +124,9 @@
         ],
         "company": "20minutes",
         "category": "history",
-        "description": "You will learn to build a Web Application, REST API and Full Stack Application with Spring Boot and Spring Frameworks"
+        "description": "You will learn to build a Web Application, REST API and Full Stack Application with Spring Boot and Spring Frameworks",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "gcp",
@@ -124,7 +140,9 @@
         "company": "thappa",
         "category": "computer",
         "shipping": true,
-        "description": "Understand how to engineer and deploy secure and robust applications on Google Cloud Platform , Understand the best practices for building secure and reliable applications on the Google Cloud Platform"
+        "description": "Understand how to engineer and deploy secure and robust applications on Google Cloud Platform , Understand the best practices for building secure and reliable applications on the Google Cloud Platform",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "docker",
@@ -137,7 +155,9 @@
         ],
         "company": "rohit",
         "category": "science",
-        "description": "6 DEVOPS TOOLS - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansibl LEARN DEVOPS fundamentals - CI, CD and IAAC LEARN DEVOPS from ZERO - No experience required"
+        "description": "6 DEVOPS TOOLS - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansibl LEARN DEVOPS fundamentals - CI, CD and IAAC LEARN DEVOPS from ZERO - No experience required",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "docker",
@@ -151,7 +171,9 @@
         "company": "rohit",
         "category": "science",
         "featured": true,
-        "description": "6 DEVOPS TOOLS - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansibl LEARN DEVOPS fundamentals - CI, CD and IAAC LEARN DEVOPS from ZERO - No experience required"
+        "description": "6 DEVOPS TOOLS - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansibl LEARN DEVOPS fundamentals - CI, CD and IAAC LEARN DEVOPS from ZERO - No experience required",
+        "reviews": 58,
+        "stars": 4.8
     },
     {
         "id": "spring",
@@ -165,6 +187,8 @@
         ],
         "company": "20minutes",
         "category": "history",
-        "description": "You will learn to build a Web Application, REST API and Full Stack Application with Spring Boot and Spring Frameworks"
+        "description": "You will learn to build a Web Application, REST API and Full Stack Application with Spring Boot and Spring Frameworks",
+        "reviews": 58,
+        "stars": 4.8
     }
 ]
