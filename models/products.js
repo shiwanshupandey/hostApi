@@ -38,11 +38,25 @@ const productSchema = new mongoose.Schema({
       type: String
     },
     featured: {
+      default: false,
             type: Boolean
         },
     shipping:{
             type: Boolean
-        }
+        },
+      review:{
+        required:true,
+        default:4.9,
+        type: Number
+      },
+      stars:{
+        default:4.5,
+        type: Number
+      },
+      pictures:{
+        type: Array
+      }
+
 });
 
 module.exports = mongoose.model("Product", productSchema);
