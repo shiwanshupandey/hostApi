@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "name": "[NEW] Master Spring Boot 3 & Spring Framework 6 with Java",
         "image": "https://azpanel.azilen.com/uploads/everything_must_know_spring_boot_application_scratch_12_8c4e62d4fe.jpg",
         "price": 6000,
@@ -17,7 +17,7 @@
         "stars": 4.8
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "CCNA 2020 200-125 Video Boot Camp With Chris Bryant",
         "image": "https://media.licdn.com/dms/image/C4E12AQFRZp_eAmDlpA/article-cover_image-shrink_600_2000/0/1627028105433?e=2147483647&v=beta&t=Rt3bd3M3qMcJ-m-9cf5Fxyc6zBljZeB3cU7kvJO5iZc",
         "price": 5000,
@@ -33,7 +33,7 @@
         "stars": 4.8
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps",
         "image": "https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png",
         "price": 9999,
@@ -48,7 +48,7 @@
         "stars": 4.8
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "CCNP All-in-1 Video Boot Camp With Chris Bryant",
         "image": "https://media.licdn.com/dms/image/C4E12AQFRZp_eAmDlpA/article-cover_image-shrink_600_2000/0/1627028105433?e=2147483647&v=beta&t=Rt3bd3M3qMcJ-m-9cf5Fxyc6zBljZeB3cU7kvJO5iZc",
         "price": 5000,
@@ -64,7 +64,7 @@
         "stars": 4.8
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Introduction To Fiber Optic Cabling",
         "image": "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png",
         "price": 5000,
@@ -80,7 +80,7 @@
         "stars": 4.8
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "GCP Associate Cloud Engineer - Google Cloud Certification",
         "image": "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png",
         "price": 5000,
@@ -96,7 +96,7 @@
         "stars": 4.8
     },
     {
-        "id": "7",
+        "id": 7,
         "name": "GCP Associate Cloud Engineer - Google Cloud Certification",
         "image": "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png",
         "price": 5000,
@@ -113,7 +113,7 @@
         "stars": 4.8
     },
     {
-        "id": "8",
+        "id": 8,
         "name": "[NEW] Master Spring Boot 3 & Spring Framework 6 with Java",
         "image": "https://azpanel.azilen.com/uploads/everything_must_know_spring_boot_application_scratch_12_8c4e62d4fe.jpg",
         "price": 6000,
@@ -129,7 +129,7 @@
         "stars": 4.8
     },
     {
-        "id": "9",
+        "id": 9,
         "name": "GCP Associate Cloud Engineer - Google Cloud Certification",
         "image": "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png",
         "price": 5000,
@@ -145,7 +145,7 @@
         "stars": 4.8
     },
     {
-        "id": "10",
+        "id": 10,
         "name": "Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps",
         "image": "https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png",
         "price": 9999,
@@ -160,7 +160,7 @@
         "stars": 4.8
     },
     {
-        "id": "11",
+        "id": 11,
         "name": "Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps",
         "image": "https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png",
         "price": 9999,
@@ -176,7 +176,7 @@
         "stars": 4.8
     },
     {
-        "id": "12",
+        "id": 12,
         "name": "[NEW] Master Spring Boot 3 & Spring Framework 6 with Java",
         "image": "https://azpanel.azilen.com/uploads/everything_must_know_spring_boot_application_scratch_12_8c4e62d4fe.jpg",
         "price": 6000,
