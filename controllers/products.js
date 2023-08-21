@@ -17,6 +17,10 @@ const getAllProducts = async (req, res) => {
         queryObject.name = { $regex: name, $options: "i" };
     }
 
+    if(id){
+        queryObject.id = id;
+    }
+
     let apiData = Product.find(queryObject);
 
     if (sort){
