@@ -2,7 +2,7 @@ const Product = require("../models/products");
 
 
 const getAllProducts = async (req, res) => {
-    const {company, name, featured, sort, select} = req.query;
+    const {id, company, name, featured, sort, select} = req.query;
     const queryObject = {};
 
     if (company){
@@ -17,7 +17,7 @@ const getAllProducts = async (req, res) => {
         queryObject.name = { $regex: name, $options: "i" };
     }
 
-    if(id){
+    if (id){
         queryObject.id = id;
     }
 
