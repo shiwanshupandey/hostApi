@@ -13,9 +13,9 @@ const productSchema = new mongoose.Schema({
           required: true,
           type:  Number
         },
-    colors:{
+    class:{
           required: true,
-            type: Array
+            type: String
         },
     company: {
           required: true,
@@ -53,8 +53,9 @@ const productSchema = new mongoose.Schema({
         default:4.5,
         type: Number
       },
-      pictures:{
-        type: Array
+      bought:{
+          default: false,
+            type: Boolean
       }
 
 });
